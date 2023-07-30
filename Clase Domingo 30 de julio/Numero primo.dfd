@@ -1,0 +1,74 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'Ingrese un Número a Analisar'
+5
+1
+1
+N
+6
+1
+4
+Ndiv
+1
+0
+7
+1
+1
+3
+N=1
+4
+1
+15
+'1 no es primo'
+13
+8
+1
+4
+cont
+1
+1
+1
+1
+1
+n
+1
+1
+1
+7
+0
+1
+12
+n mod cont=0
+13
+6
+1
+4
+Ndiv
+6
+Ndiv+1
+13
+7
+0
+1
+6
+Ndiv>2
+4
+1
+12
+n,'es primo'
+13
+4
+1
+15
+N,'no es primo'
+13
+10
+13
+1

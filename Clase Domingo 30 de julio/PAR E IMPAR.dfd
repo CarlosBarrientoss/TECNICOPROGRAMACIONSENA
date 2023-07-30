@@ -1,0 +1,34 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+82
+'Señor usuario porfavor coloque un número y el programa le dira si es par o impar'
+5
+1
+2
+N1
+7
+0
+1
+12
+N1 mod 2 = 0
+4
+1
+13
+N1,'ES IMPAR'
+13
+4
+1
+11
+N1,'ES PAR'
+13
+4
+1
+9
+'GRACIAS'
+1

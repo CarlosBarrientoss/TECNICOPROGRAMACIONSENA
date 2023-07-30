@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+36
+'Ingrese la nota del primer parcial'
+5
+1
+5
+Nota1
+4
+1
+37
+'Ingrese la nota del segundo parcial'
+5
+1
+5
+Nota2
+6
+3
+8
+Parcial1
+9
+nota1*0.4
+8
+Parcial2
+9
+nota2*0.6
+5
+final
+17
+parcial1+parcial2
+7
+0
+1
+11
+Final>=2.96
+4
+1
+68
+'Lo sentimos pero usted reprobo la asignatura con una nota de',final
+13
+4
+1
+68
+'Felisidades usted aprobo la asignatura con una nota final de',final
+13
+4
+1
+13
+'ESTUDIE MAS'
+1
