@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'ingresa un numero'
+5
+1
+6
+valorA
+4
+1
+57
+'el valor agregado para la variable valorA es: ' , valorA
+5
+1
+6
+valorB
+4
+1
+53
+'El valor agregado a la variable valorB es: ', valorB
+6
+1
+6
+valorC
+15
+valorA + valorB
+4
+1
+44
+'La suma del valorA mas valorB es: ', valorC
+1
