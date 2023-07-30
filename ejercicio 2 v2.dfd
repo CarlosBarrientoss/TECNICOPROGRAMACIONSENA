@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+46
+'digita un número y te diré si es impar o par'
+6
+1
+8
+contador
+1
+0
+5
+1
+1
+n
+8
+1
+1
+i
+1
+1
+1
+1
+1
+n
+1
+1
+1
+7
+0
+1
+11
+i mod 2 = 0
+4
+1
+14
+i, ' es impar'
+13
+6
+1
+8
+contador
+10
+contador+1
+4
+1
+12
+i, ' es par'
+13
+10
+4
+1
+36
+'la cantidad de pares es: ',contador
+1
