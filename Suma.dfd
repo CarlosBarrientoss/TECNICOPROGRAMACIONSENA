@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+23
+'ingrese el valor de A'
+5
+1
+6
+valorA
+4
+1
+23
+'ingrese el valor de B'
+5
+1
+6
+valorB
+6
+1
+6
+valorC
+13
+valorA+valorB
+4
+1
+33
+'el resultado de c es:' ,  valorC
+1
