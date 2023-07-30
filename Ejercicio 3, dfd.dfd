@@ -1,0 +1,58 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+15
+Nombre completo
+4
+1
+47
+'porfavor ingrese la nota de su primer parcial'
+5
+1
+5
+nota1
+4
+1
+39
+'ingrese la nota de su segundo parcial'
+5
+1
+5
+nota2
+6
+3
+5
+nota1
+9
+nota1*0.6
+5
+nota2
+9
+nota2*0.8
+5
+final
+13
+nota1 + nota2
+7
+0
+1
+12
+final >=2.96
+4
+1
+82
+'Lamentamos decirte que no has aprobado el parcial suerte para la proxima ', final
+13
+4
+1
+66
+'Felicidades usted ha aprobado el parcial con una nota de :',final
+13
+4
+1
+14
+'buena suerte'
+1
