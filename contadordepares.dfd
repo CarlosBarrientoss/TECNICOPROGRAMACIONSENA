@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+32
+'INGRESE UN NUMERO DEL 1 AL 100'
+5
+1
+5
+valor
+7
+0
+1
+20
+valor<0 OR valor>100
+6
+1
+8
+contador
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+5
+valor
+1
+1
+1
+7
+0
+1
+9
+i MOD 2=0
+13
+6
+1
+8
+contador
+10
+contador+1
+13
+10
+4
+1
+33
+'hay ',contador,' numeros pares '
+13
+4
+1
+17
+'numero invalido'
+13
+1

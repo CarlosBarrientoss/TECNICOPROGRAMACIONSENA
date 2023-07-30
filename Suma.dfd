@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+21
+'INGRESE UN VALOR A:'
+5
+1
+6
+valorA
+4
+1
+21
+'INGRESE UN VALOR B:'
+5
+1
+6
+valorB
+6
+1
+6
+valorC
+13
+valorA+valorB
+4
+1
+21
+'LA SUMA ES:', valorC
+1
