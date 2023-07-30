@@ -1,0 +1,70 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'Ingrese un numero'
+5
+1
+1
+N
+6
+2
+4
+cont
+1
+0
+5
+cont2
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+7
+0
+1
+9
+i mod 2=0
+6
+1
+5
+cont2
+6
+cont+1
+4
+1
+30
+'El numero: ', i,  ' Es impar'
+13
+6
+1
+4
+cont
+7
+cont +1
+4
+1
+27
+'El numero: ' ,i, ' Es par'
+13
+10
+4
+1
+44
+'hay ',cont,' pares', ' y ',cont2,' impares'
+1
