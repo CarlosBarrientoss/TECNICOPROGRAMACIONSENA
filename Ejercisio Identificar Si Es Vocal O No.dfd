@@ -1,0 +1,30 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+63
+'ingrese un caracter entre comillas para saber si es una vocal'
+5
+1
+1
+b
+7
+0
+1
+41
+b='a' or b='e' or b='i' or b='o' or b='u'
+4
+1
+29
+'el caracter no es una vocal'
+13
+4
+1
+26
+'el caracter es una vocal'
+13
+1
