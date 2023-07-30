@@ -3,17 +3,49 @@
 1
 1
 0
-0
+1
+18
+edad de un usuario
 4
 1
-54
-'ingrese su edad en numeros y presione el boton enter'
+19
+'ingrese el valorA'
 5
 1
-4
-edad
+6
+valorA
 4
 1
-27
-'Su edad es de',edad,'años'
+19
+'ingrese el valorB'
+5
+1
+6
+valorB
+4
+1
+19
+'ingrese el valorC'
+5
+1
+6
+valorC
+6
+2
+4
+suma
+20
+valora+valorb+valorc
+8
+promedio
+6
+suma/3
+4
+1
+42
+'la suma de los valores A,B,C es de' ,suma
+4
+1
+51
+'el promedio de los valores A,B,C es de ', promedio
 1
