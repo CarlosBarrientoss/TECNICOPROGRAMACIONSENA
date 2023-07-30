@@ -1,0 +1,62 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+60
+'ingrese la cantidad limite para calcular los números pares'
+5
+1
+5
+valor
+6
+1
+8
+contador
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+5
+valor
+1
+1
+1
+7
+0
+1
+11
+i MOD 2 = 0
+6
+1
+9
+contador2
+10
+contador+1
+13
+6
+1
+8
+contador
+10
+contador+1
+13
+10
+4
+1
+28
+'hay ' , contador, ' pares '
+4
+1
+31
+'hay ' , contador2, ' impares '
+1

@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'Ingrese el valorA'
+5
+1
+6
+ValorA
+4
+1
+19
+'Ingrese el valorB'
+5
+1
+6
+ValorB
+6
+1
+6
+ValorC
+13
+ValorA+ValorB
+4
+1
+40
+'La suma de ValorA y ValorB es  ',ValorC
+1

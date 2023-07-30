@@ -1,0 +1,223 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+'ingrese 3 valores para ordenar '
+5
+1
+5
+a,b,c
+7
+1
+1
+3
+a=b
+7
+0
+1
+3
+b=c
+7
+0
+1
+3
+b>c
+4
+1
+24
+'El numero mayor es ' ,c
+4
+1
+25
+'El numero menor es ' , a
+13
+4
+1
+24
+'El numero mayor es ' ,a
+4
+1
+25
+'El numero menor es ' , c
+13
+13
+4
+1
+24
+'El número unico es ' ,a
+13
+13
+7
+1
+1
+3
+a=c
+7
+1
+1
+3
+a>b
+4
+1
+24
+'El numero mayor es ' ,a
+4
+1
+25
+'El numero menor es ' , b
+13
+4
+1
+24
+'El numero mayor es ' ,b
+4
+1
+25
+'El numero menor es ' , a
+13
+13
+7
+1
+1
+3
+b=c
+7
+1
+1
+3
+b>a
+4
+1
+24
+'El numero mayor es ' ,b
+4
+1
+25
+'El numero menor es ' , a
+13
+4
+1
+24
+'El numero mayor es ' ,a
+4
+1
+25
+'El numero menor es ' , b
+13
+13
+7
+0
+1
+3
+a>b
+7
+0
+1
+3
+b>c
+4
+1
+25
+'El número mayor es ' , c
+4
+1
+30
+'El numero intermedio es ' , b
+4
+1
+25
+'El numero menor es ' , a
+13
+7
+0
+1
+3
+c>a
+4
+1
+25
+'El número mayor es ' , b
+4
+1
+30
+'El numero intermedio es ' , a
+4
+1
+25
+'El numero menor es ' , c
+13
+4
+1
+25
+'El número mayor es ' , b
+4
+1
+30
+'El numero intermedio es ' , c
+4
+1
+25
+'El numero menor es ' , a
+13
+13
+13
+7
+0
+1
+3
+a>c
+4
+1
+25
+'El número mayor es ' , c
+4
+1
+30
+'El numero intermedio es ' , a
+4
+1
+25
+'El numero menor es ' , b
+13
+7
+0
+1
+3
+b>c
+4
+1
+25
+'El número mayor es ' , a
+4
+1
+30
+'El numero intermedio es ' , c
+4
+1
+25
+'El numero menor es ' , b
+13
+4
+1
+25
+'El número mayor es ' , a
+4
+1
+30
+'El numero intermedio es ' , b
+4
+1
+25
+'El numero menor es ' , c
+13
+13
+13
+13
+13
+13
+1

@@ -1,0 +1,49 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'Ingrese el valorA'
+5
+1
+6
+ValorA
+4
+1
+19
+'Ingrese el valorB'
+5
+1
+6
+ValorB
+4
+1
+19
+'Ingrese el ValorC'
+5
+1
+6
+ValorC
+6
+2
+4
+suma
+20
+ValorA+ValorB+ValorC
+8
+promedio
+6
+suma/3
+4
+1
+36
+'La suma de Valores A,B,C es  ',suma
+4
+1
+44
+'El promedio de Valores A,B,C es  ',promedio
+1
