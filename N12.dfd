@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+'INGRESA LA BASE'
+5
+1
+1
+B
+4
+1
+19
+'INGRESA LA ALTURA'
+5
+1
+1
+H
+6
+1
+1
+A
+7
+(B*H)/2
+4
+1
+18
+'EL AREA ES: ' , A
+1

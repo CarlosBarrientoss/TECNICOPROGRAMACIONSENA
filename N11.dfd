@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+'INGRESE SU SALARIO'
+5
+1
+1
+S
+6
+2
+1
+I
+6
+S*0.25
+1
+O
+6
+S*1.25
+4
+1
+79
+'TU SALARIO: ' , S , ' ESTO ES EL INCREMENTO: ' , I , ' EL NUEVO SALARIO: ' , O
+1
