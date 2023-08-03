@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'ingrese la velocidad inicial'
+5
+1
+2
+VI
+4
+1
+28
+'ingrese la velocidad final'
+5
+1
+2
+VF
+4
+1
+19
+'ingrese el tiempo'
+5
+1
+1
+T
+6
+1
+1
+E
+11
+(VI+VF)/2*T
+4
+1
+31
+'el espacio recorrido es de', E
+1

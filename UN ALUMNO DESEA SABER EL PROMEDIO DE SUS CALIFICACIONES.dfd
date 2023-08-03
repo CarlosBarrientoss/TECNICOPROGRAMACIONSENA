@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+16
+'ingrese tareas'
+5
+1
+7
+a,b,c,d
+4
+1
+31
+'ingrese examen de medio curso'
+5
+1
+2
+EM
+4
+1
+22
+'ingrese examen final'
+5
+1
+2
+EF
+6
+3
+3
+PTA
+11
+(a+b+c+d)/4
+3
+PEM
+7
+EM+0.15
+3
+PEF
+7
+EF*0.25
+6
+2
+3
+PPT
+8
+PTA*0.60
+2
+PF
+7
+PEM+PPt
+4
+1
+44
+'el promedio final del estudiante es de', PF
+1

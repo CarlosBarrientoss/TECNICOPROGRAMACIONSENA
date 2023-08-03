@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+7
+ingrese
+4
+1
+21
+'cantidad de varones'
+5
+1
+1
+V
+4
+1
+21
+'cantidad de mujeres'
+5
+1
+1
+M
+6
+3
+1
+T
+3
+V+M
+2
+PV
+7
+V*100/T
+2
+PM
+7
+M*100/T
+4
+1
+48
+'el porcentaje de varones en el salon es de', PV
+4
+1
+48
+'el porcentaje de varones en el salon es de', PM
+1

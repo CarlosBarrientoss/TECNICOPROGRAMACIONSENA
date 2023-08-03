@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+22
+'ingresa la velocidad'
+5
+1
+1
+V
+4
+1
+19
+'ingrese el tiempo'
+5
+1
+1
+T
+6
+1
+1
+D
+3
+V*T
+4
+1
+40
+'el espacio rrecorrio del carro es ' , D
+1
