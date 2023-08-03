@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+Horas
+1
+0
+5
+Valor
+1
+0
+7
+Salario
+1
+0
+4
+1
+30
+'Coloque las Horas de Trabajo'
+5
+1
+5
+Horas
+4
+1
+34
+'Coloque el Valor pagado por Hora'
+5
+1
+5
+Valor
+6
+1
+7
+Salario
+11
+Horas*Valor
+4
+1
+32
+'EL Salario total es: ', Salario
+4
+1
+16
+'Muchas Gracias'
+1
