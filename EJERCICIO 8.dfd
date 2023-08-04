@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'ingrese el numero de horas'
+5
+1
+2
+NH
+4
+1
+27
+'ingrese el valor por hora'
+5
+1
+2
+TH
+6
+1
+2
+SM
+5
+NH*TH
+4
+1
+29
+'EL SALARIO MENSUAL ES: ' ,SM
+1

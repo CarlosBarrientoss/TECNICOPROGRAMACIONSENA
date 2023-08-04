@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+'INGRESE SU ANTERIOR SALARIO'
+5
+1
+2
+SA
+6
+2
+1
+X
+9
+25*SA/100
+2
+NS
+4
+SA+X
+4
+1
+30
+'EL NUEVO SALARIO SERA: ' , NS
+1

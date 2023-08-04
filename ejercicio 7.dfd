@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+48
+'ingrese la velocidad en kilometros por minutos'
+5
+1
+1
+V
+4
+1
+30
+'ingrese el tiempo en minutos'
+5
+1
+1
+T
+6
+1
+1
+D
+3
+V*T
+4
+1
+41
+'La distancia recorrida fue: ' , D , 'km'
+1
