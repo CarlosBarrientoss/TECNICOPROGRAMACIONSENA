@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+5
+Letra
+2
+''
+4
+1
+52
+'Por favor ingresa una letra entre comillas simples'
+5
+1
+5
+Letra
+7
+0
+1
+66
+Letra ='a' or Letra ='e' or Letra ='i' or Letra ='o' or Letra ='u'
+4
+1
+74
+'La letra ',Letra, ' que usted ingreso no es una vocal, es una consonante'
+13
+4
+1
+52
+'La letra ',Letra, ' que usted ingreso es una vocal'
+13
+1
