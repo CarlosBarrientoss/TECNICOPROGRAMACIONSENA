@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+61
+'Ingrese la cantidad de grados celcius que quieres convertir'
+5
+1
+1
+C
+6
+1
+1
+F
+8
+C*9/5+32
+4
+1
+47
+C,' grados celcius son ',F,' grados Fahrenheit'
+1

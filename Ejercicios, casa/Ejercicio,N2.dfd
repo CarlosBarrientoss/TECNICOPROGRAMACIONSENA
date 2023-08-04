@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+55
+'Ingrese un monto de pesos para convertirlos a dólares'
+5
+1
+1
+P
+7
+0
+1
+3
+P>0
+4
+1
+60
+'El numero ',P,' es invalido, por favor ingresa otro número'
+13
+4
+1
+29
+'ingrese el valor del dollar'
+5
+1
+1
+V
+6
+1
+1
+D
+3
+P/V
+4
+1
+37
+P,' pesos en dolares son: ',D, ' $US'
+13
+1

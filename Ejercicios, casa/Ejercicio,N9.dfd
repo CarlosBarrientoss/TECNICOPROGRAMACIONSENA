@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+30
+'Ingrese el número de varones'
+5
+1
+1
+V
+7
+0
+1
+3
+V>0
+4
+1
+48
+'El número ',V,' que usted ingreso es invalido' 
+13
+4
+1
+30
+'Ingrese el número de mujeres'
+5
+1
+1
+M
+7
+0
+1
+3
+M>0
+4
+1
+48
+'El número ',M,' que usted ingreso es invalido' 
+13
+6
+3
+1
+T
+3
+V+M
+2
+PV
+7
+V*100/T
+2
+PM
+7
+M*100/T
+4
+1
+63
+'El porcentaje de hombres en el salón de clases es de ',PV,' %'
+4
+1
+64
+'El porcentaje de  mujeres en el salón de clases es de ',PM,' %'
+13
+13
+1

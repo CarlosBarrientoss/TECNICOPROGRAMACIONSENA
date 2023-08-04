@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+63
+'Ingrese la velocidad del automóvil para calcular la distancia'
+5
+1
+1
+V
+7
+0
+1
+3
+V>0
+4
+1
+100
+'El numero ',V,' que ingreso es invalido, por favor intentalo de nuevo e ingresa un valor mas alto.'
+13
+4
+1
+47
+'Ingrese el tiempo recocrrido por el automóvil'
+5
+1
+1
+T
+7
+0
+1
+3
+T>0
+4
+1
+100
+'El numero ',T,' que ingreso es invalido, por favor intentalo de nuevo e ingresa un valor mas alto.'
+13
+6
+1
+1
+D
+3
+V*T
+4
+1
+48
+'El espacio recorrido por el automóvil es de ',D
+13
+13
+1

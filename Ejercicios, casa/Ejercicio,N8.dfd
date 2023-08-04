@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+49
+'Por favor ingrese el numero de horas trabajadas'
+5
+1
+2
+NH
+7
+0
+1
+4
+NH>0
+4
+1
+49
+'El número ',NH,' que usted ingreso es invalido' 
+13
+4
+1
+50
+'Por favor ingresa la tarifa de la hora trabajada'
+5
+1
+2
+HT
+7
+0
+1
+4
+HT>0
+4
+1
+49
+'El número ',HT,' que usted ingreso es invalido' 
+13
+6
+1
+2
+SM
+5
+NH*HT
+4
+1
+34
+'Su salario de este mes es de ',SM
+13
+13
+1

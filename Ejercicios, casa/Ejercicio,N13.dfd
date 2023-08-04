@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+52
+'Por favor ingresa la valocidad incial del vehículo'
+5
+1
+2
+VI
+4
+1
+38
+'Por favor ingresa la velocidad final'
+5
+1
+2
+VF
+4
+1
+55
+'Por favor ingrese el tiempo recorrido por el vehículo'
+5
+1
+1
+T
+6
+1
+1
+E
+11
+(VI+VF)/2*T
+4
+1
+48
+'El espacio que recorrio el vehiculo fue de ', E
+1
