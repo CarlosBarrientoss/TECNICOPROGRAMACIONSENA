@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+26
+promedio de tres variables
+4
+1
+31
+'Ingrese el valor de A, B y C:'
+5
+1
+7
+A, B, C
+6
+2
+4
+suma
+5
+A+B+C
+8
+promedio
+6
+suma/3
+4
+1
+44
+'La suma de los valores A, B y C es: ' ,suma
+4
+1
+52
+'El promedio de los valores A, B y C es: ' ,promedio
+1

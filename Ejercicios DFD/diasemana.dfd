@@ -1,0 +1,94 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+9
+diasemana
+4
+1
+30
+'Ingrese un número del 1 al 7'
+5
+1
+6
+numero
+7
+0
+1
+10
+numero = 1
+7
+0
+1
+10
+numero = 2
+7
+0
+1
+10
+numero = 3
+7
+0
+1
+10
+numero = 4
+7
+0
+1
+10
+numero = 5
+7
+0
+1
+10
+numero = 6
+7
+0
+1
+10
+numero = 7
+13
+4
+1
+9
+'Domingo'
+13
+13
+4
+1
+8
+'Sabado'
+13
+13
+4
+1
+9
+'Viernes'
+13
+13
+4
+1
+8
+'Jueves'
+13
+13
+4
+1
+11
+'Miercoles'
+13
+13
+4
+1
+8
+'Martes'
+13
+13
+4
+1
+7
+'Lunes'
+13
+1

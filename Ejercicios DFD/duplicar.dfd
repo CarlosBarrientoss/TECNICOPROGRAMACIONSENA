@@ -1,0 +1,27 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+14
+duplicar valor
+4
+1
+19
+'Ingrese un número'
+5
+1
+6
+valorA
+6
+1
+3
+dup
+8
+valorA*2
+4
+1
+30
+'El valor duplicado es: ' ,dup
+1

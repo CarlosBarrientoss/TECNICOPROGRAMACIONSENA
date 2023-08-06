@@ -1,0 +1,58 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+11
+notaparcial
+4
+1
+36
+'Ingrese la nota del primer parcial'
+5
+1
+5
+nota1
+4
+1
+37
+'Ingrese la nota del segundo parcial'
+5
+1
+5
+nota2
+6
+3
+9
+nparcial1
+9
+nota1*0.4
+9
+nparcial2
+9
+nota2*0.6
+9
+notafinal
+19
+nparcial1+nparcial2
+7
+0
+1
+17
+notafinal >= 2.96
+4
+1
+63
+'Lo sentimos, usted ha reprobado con una nota de: ' , notafinal
+13
+4
+1
+62
+'Felicidades, usted ha aprobado con una nota de: ' , notafinal
+13
+4
+1
+15
+'Buena suerte.'
+1

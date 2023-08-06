@@ -1,0 +1,78 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+23
+numeros pares e impares
+4
+1
+19
+'Ingrese un número'
+5
+1
+5
+valor
+6
+1
+8
+contador
+1
+0
+6
+1
+1
+a
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+5
+valor
+1
+1
+1
+7
+0
+1
+11
+i mod 2 = 0
+6
+1
+1
+a
+3
+a+1
+4
+1
+31
+'El número: ' , i , ' es impar'
+13
+6
+1
+8
+contador
+12
+contador + 1
+4
+1
+29
+'El número: ' , i , ' es par'
+13
+10
+4
+1
+33
+'la cantidad de impares es: ' , a
+4
+1
+38
+'la cantidad de pares es: ' , contador
+1
