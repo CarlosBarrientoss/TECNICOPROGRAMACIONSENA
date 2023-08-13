@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+5
+letra
+2
+''
+4
+1
+20
+'Ingrese una letra:'
+5
+1
+5
+letra
+7
+0
+1
+61
+letra='a' or letra='e' or letra='i' or letra='o' or letra='u'
+7
+0
+1
+61
+letra='A' or letra='E' or letra='I' or letra='O' or letra='U'
+4
+1
+40
+'El caracter ',letra, ' no es una vocal'
+13
+4
+1
+36
+'El caracter ',letra, 'es una vocal'
+13
+13
+4
+1
+38
+'El caracter ', letra, ' es una vocal'
+13
+1
