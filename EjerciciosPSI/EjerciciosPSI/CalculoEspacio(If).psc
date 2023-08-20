@@ -26,6 +26,6 @@ Algoritmo CalculoEspacio
 	
 	distancia = 1/2*tiempo*(velocidadI+velocidadO)
 	
-	Escribir "El espacio medido en distancia es: ",distancia,"m²";
+	Escribir "El espacio medido en distancia es: ",distancia,"mÂ²";
 	
 FinAlgoritmo
