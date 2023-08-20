@@ -20,6 +20,6 @@ Algoritmo Distancia
 
 	resultado = velocidad * tiempo;
 	
-	Escribir "El resultado de la distancia es: ", resultado," m²";
+	Escribir "El resultado de la distancia es: ", resultado," mÂ²";
 	
 FinAlgoritmo
