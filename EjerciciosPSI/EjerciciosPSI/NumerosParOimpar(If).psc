@@ -4,7 +4,7 @@ Algoritmo NumerosParOimpar
 	
 	Definir n Como Real;
 	
-	Escribir "Ingresa el numero para de¡igitar: ";
+	Escribir "Ingresa el numero para deÂ¡igitar: ";
 	Leer n;
 	
 	Escribir "";
