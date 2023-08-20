@@ -2,7 +2,7 @@ Algoritmo Estacion_tiempo
 	
 	Definir estacion Como Entero;
 	
-		Escribir "Algoritmo año estacion";
+		Escribir "Algoritmo aÃ±o estacion";
 		Escribir "";
 		Escribir "Ingrese un numero del 1 al 12: ";
 		Leer estacion;
@@ -27,7 +27,7 @@ Algoritmo Estacion_tiempo
 			Caso  9, 10, 11:
 				
 				Escribir "";
-				Escribir "**La estacion es otoño**";
+				Escribir "**La estacion es otoÃ±o**";
 				
 			De Otro Modo:
 				
