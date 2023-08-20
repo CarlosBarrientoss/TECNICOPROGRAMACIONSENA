@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+'Ingresar la base'
+5
+1
+1
+B
+4
+1
+20
+'Ingresar la altura'
+5
+1
+1
+H
+6
+1
+2
+AT
+7
+(B*H)/2
+4
+1
+23
+'El area es igual ', AT
+1

@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'numero de horas trabajadas'
+5
+1
+2
+NH
+4
+1
+18
+'tarifa por horas'
+5
+1
+2
+TH
+6
+1
+2
+SM
+5
+NH*TH
+4
+1
+25
+'salario mensual es ', SM
+1

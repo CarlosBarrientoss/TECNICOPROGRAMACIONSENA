@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+38
+' Ingresar el valor de grados celcius'
+5
+1
+1
+C
+6
+1
+1
+F
+8
+C*9/5+32
+4
+1
+58
+C,' grados celcius es igual a ', F , '   grados farenheit'
+1
