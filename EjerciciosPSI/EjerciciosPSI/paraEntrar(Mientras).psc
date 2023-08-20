@@ -17,7 +17,7 @@ Algoritmo paraEntrar
 					
 				SiNo
 					
-					Imprimir "Usuario correcto, Bienvenido ingrese la contraseña: ";
+					Imprimir "Usuario correcto, Bienvenido ingrese la contraseÃ±a: ";
 					
 				Fin Si
 				
@@ -25,12 +25,12 @@ Algoritmo paraEntrar
 			
 			Mientras password <> 29734667 Hacer
 				
-				Imprimir "Ingrese la contraseña: ";
+				Imprimir "Ingrese la contraseÃ±a: ";
 				Leer password;
 				
 				Si password <> 29734667 Entonces
 					
-					Escribir "Contraseña incorrecta, vuelve a ingresarlo: ";
+					Escribir "ContraseÃ±a incorrecta, vuelve a ingresarlo: ";
 					
 				SiNo
 					
