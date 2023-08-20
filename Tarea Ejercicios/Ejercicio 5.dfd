@@ -1,0 +1,109 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+28
+'Ingresa el primer numero: '
+5
+1
+2
+n1
+4
+1
+29
+'Ingrese el segundo numero: '
+5
+1
+2
+n2
+4
+1
+28
+'Ingrese el tercer numero: '
+5
+1
+2
+n3
+7
+0
+1
+5
+n1<n2
+7
+0
+1
+5
+n2<n3
+4
+1
+25
+'El numero menor es: ',n3
+13
+4
+1
+25
+'El numero menor es: ',n2
+13
+13
+7
+0
+1
+5
+n1<n3
+4
+1
+25
+'El numero menor es: ',n3
+13
+4
+1
+26
+'El numero menor es: ', n1
+13
+13
+7
+0
+1
+5
+n1>n2
+7
+0
+1
+5
+n2>n3
+4
+1
+25
+'El numero mayor es: ',n3
+13
+4
+1
+25
+'El numero mayor es: ',n2
+13
+13
+7
+0
+1
+5
+n1>n3
+4
+1
+25
+'El numero mayor es: ',n3
+13
+4
+1
+25
+'El numero mayor es: ',n1
+13
+13
+4
+1
+24
+'Gracias por participar'
+1
